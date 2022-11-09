@@ -7,7 +7,7 @@ This repo has two intended purposes.
 
 ## Frontier API Documentation
 
-https://help.live.homelync.io/hc/en-us/articles/6930918454929-Frontier-Data-Retrieval-API-
+https://help.live.homelync.io/hc/en-us/articles/6930918454929-Frontier-Data-Retrieval-API
 
 _You'll need a HomeLINk account to view the above!_
 
