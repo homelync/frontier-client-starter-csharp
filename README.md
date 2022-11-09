@@ -68,7 +68,7 @@ These tests have been included simply to show the `AdvancedFrontierService` bein
 - `$ cd Tests.Integration`
 - `$ dotnet test --filter Advanced`
 
-### Contributing
+## Contributing
 
 If you would like to see other examples included in this repo, please raise an issue. Alternatively, we are accepting PRs. Go on, do it!
 
