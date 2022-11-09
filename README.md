@@ -51,6 +51,8 @@ These tests have been included simply to show the `SimpleFrontierService` being 
 
 ## Using this repository as a starter
 
+### Implementation
+
 A more "production-ready" implementation showing IoC, DI and SoC can be seen in [`AdvancedFrontierService.cs`](./Frontier/Services/AdvancedFrontierService.cs).
 
 ### Tests
